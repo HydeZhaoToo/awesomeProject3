@@ -93,11 +93,10 @@ pie
 
 
 12. 项目的程序配置目前如何管理?
-[https://www.icloud.com.cn/keynote/0KebHlWpAu65JzGLP75hNh45g] (dsadsad)
+[我的文档](https://www.icloud.com.cn/keynote/0KebHlWpAu65JzGLP75hNh45g)
 
 
 https://www.icloud.com.cn/keynote/0KebHlWpAu65JzGLP75hNh45g
-
 
 
 
