@@ -28,6 +28,15 @@ func test(c *gin.Context)  {
 }
 ```
 
+```mermaid
+pie
+    title Key elements in Product X
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
+```
+
 # 网有网规SAAS化初步摸底
 
 
